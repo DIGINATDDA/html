@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>Registration</title>
+</head>
+<body>
+<form action="case4.html">
+<h1 align="center">Registration Form</h1>
+<table border="4" align="center">
+<tr>
+        <th>Name</th>
+<td width="150"><input type="Name"/></th>
+        </tr>
+<tr>
+<th>roll no</th>
+<td> <input type="Name"/></td>
+</tr>
+   <tr>
+<th>course</th>
+<td> <input type="email"/></td>
+
+   </tr>
+
+   </tr>
+   <tr>
+<th>email</th>
+<td> <input type="email"/></td>
+
+   </tr>
+   <tr>
+<th>phone number</th>
+<td> <input type="phone"/></td>
+
+   </tr>
+   <tr>
+<th height="40"colspan="2"><input type="submit"value="submit"/></th>
+</tr>
+
+       
+
+</table>
+</body>
+</html>
