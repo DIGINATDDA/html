@@ -1,0 +1,85 @@
+body{
+background-image: url(C:/Users/user_2/Downloads/dark-wood.jpg);
+background-size: 100% 100%;
+background-repeat: no-repeat;
+
+}
+
+.main{
+background-color: white;
+border-left: 15%;
+border-right: 15%;
+width: 100%;
+overflow: hidden;
+}
+.ccc{
+	float: left;
+	width: 30%;
+}
+.aaa{
+	float: left;
+	overflow: hidden;
+}
+
+
+#ee{
+	background:gray;
+	color:white;
+	outline: none;
+	font-size: 20px;
+	
+         
+         border: none;
+         outline: none;
+         text-decoration: none;
+         display: inline-block;
+         font-size: 16px;
+         margin: 4px 2px;
+         /*cursor: pointer;*/
+         padding: 9px 10px;
+}
+#ee:hover{
+  
+  
+  background-color:gray;
+  color: black;
+
+}
+footer{
+	background:	gray;
+	padding: 10px;
+	
+}
+
+.www {
+  
+  margin-top:;
+  
+}
+.header{
+	background:gray;
+}
+.ddd{
+	float: left;
+	overflow: hidden;
+}
+
+
+
+
+
+.body{
+ margin-left: 20%;
+ margin-right: 20%;
+}
+
+
+
+/*.ddd{
+
+width: 30%;
+float: left;
+
+background:white;
+
+}*/
