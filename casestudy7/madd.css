@@ -1,0 +1,42 @@
+body{
+ background-image: url("C:/Users/USER_2/Pictures/uuu.jpg");
+ background-repeat: no-repeat;
+ background-size: 2000px,2000px;
+
+}
+
+
+
+.main{
+	top: 65%;
+	left: 50%;
+	position:absolute;
+	transform: translate(-50%,-50%);
+}
+.de{
+
+
+	padding: 60px 40px 50px 40px;
+	
+	border-radius: 10px;
+}
+img{
+	border-radius: 10%;
+	position: absolute;
+	margin-left: 60px;
+	margin-top: 30px;
+}
+
+	
+	#name{
+		width: 200px;
+		border-radius:5px;
+		background: black ;
+		border-bottom: 1px solid blue;
+		padding: 6px;
+		margin-bottom: 15px;
+		color:white;
+	}
+
+	}
+
